@@ -11,6 +11,7 @@ package Tugaspraktikum;
  */
 import java.lang.Math;
 public class Bola {
+    
     double jarijari= 14;
     double diameter ;
     double luas ;
