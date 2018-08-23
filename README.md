@@ -5,13 +5,13 @@ Latihan 1
 ![alt text](https://github.com/rizkyferdian04/jobsheet2/blob/master/latihan1.JPG)
 
 
-dalam latihan 1 maxpenumpang di isi 15, tetapi belum disetting batas maximal , penumpang harus 15 jadi jika di run maka hasil penumpang akan tetap bertambah menjadi 16 orang . 
+Dalam latihan 1 maxpenumpang di isi 15, tetapi belum disetting batas maximal , penumpang harus 15 jadi jika di run maka hasil penumpang akan tetap bertambah menjadi 16 orang . 
 
 Latihan 2
 
 ![alt text](https://github.com/rizkyferdian04/jobsheet2/blob/master/latihan2.JPG)
 
-pada kondisi ini maxpenampung sudah di setting untuk batas macimal sehingga jika program di jalan kan dan nilai yang dimasukkan di variable penumpang melebihi maxpenumpang maka outputnya penumpang melebihi kuota dan program tidak menambahkan jumlah yang di set 
+Pada kondisi ini maxpenampung sudah di setting untuk batas maximal sehingga jika program di jalan kan dan nilai yang dimasukkan di variable penumpang melebihi maxpenumpang maka outputnya penumpang melebihi kuota dan program tidak menambahkan jumlah yang di set 
 
 
 Latihan 3
@@ -25,7 +25,7 @@ Latihan 4
 
 ![alt text](https://github.com/rizkyferdian04/jobsheet2/blob/master/latihan4.JPG)
 
-sama seperti latihan 2 . hanya saja ditambahkan dengan variable password tapi belum di setting untuk menginputkan nilai password sehingga muncul password salah dan password benar.
+Sama seperti latihan 2 . hanya saja ditambahkan dengan variable password tapi belum di setting untuk menginputkan nilai password sehingga muncul password salah dan password benar.
 
 
 
